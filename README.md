@@ -1,6 +1,6 @@
-# Data Augmentation Project
+# Data Augmentation Project (Thesis)
 Augementing the emotion textual data using GPT-2 Medium for generator and BERT for filtering.
-The result is tested using machine learning (Random Forest, Logistic Regression, Decision Tree, and Naive Bayes) and deep learning (LSTM, BiLSTM, BERT, and RoBERTa) algorithm.
+The data augementation result is tested using machine learning (Random Forest, Logistic Regression, Decision Tree, and Naive Bayes) and deep learning (LSTM, BiLSTM, BERT, and RoBERTa) algorithm.
 
 ![1](https://github.com/nanthajoe/data-augmentation/assets/113364800/38554cee-a5f3-42b4-b988-7b4f25ecdcc5)
 
